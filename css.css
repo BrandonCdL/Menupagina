@@ -1,0 +1,30 @@
+body{
+    background: rgb(31, 144, 164);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+h1{
+    text-align: center;
+}
+ul{
+    font-style: italic;
+    font-size: xx-large;
+    font-weight: 700;
+}
+p{
+    font-style: oblique;
+    font: 1em sans-serif;
+    text-align: center;
+    background-color: rgb(124, 80, 165);
+}
+li{
+    list-style-type: circle;
+    text-align: center;
+    line-height: 3;
+    list-style-position: inside;
+}
+img{
+    display: flex;
+}
